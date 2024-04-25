@@ -1,0 +1,14 @@
+D:\Works\GunlukUygulaması\obj\Debug\net8.0\GunlukUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\GunlukUygulaması\obj\Debug\net8.0\GunlukUygulaması.AssemblyInfoInputs.cache
+D:\Works\GunlukUygulaması\obj\Debug\net8.0\GunlukUygulaması.AssemblyInfo.cs
+D:\Works\GunlukUygulaması\obj\Debug\net8.0\GunlukUygulaması.csproj.CoreCompileInputs.cache
+D:\Works\GunlukUygulaması\bin\Debug\net8.0\GunlukUygulaması.exe
+D:\Works\GunlukUygulaması\bin\Debug\net8.0\GunlukUygulaması.deps.json
+D:\Works\GunlukUygulaması\bin\Debug\net8.0\GunlukUygulaması.runtimeconfig.json
+D:\Works\GunlukUygulaması\bin\Debug\net8.0\GunlukUygulaması.dll
+D:\Works\GunlukUygulaması\bin\Debug\net8.0\GunlukUygulaması.pdb
+D:\Works\GunlukUygulaması\obj\Debug\net8.0\GunlukUygulaması.dll
+D:\Works\GunlukUygulaması\obj\Debug\net8.0\refint\GunlukUygulaması.dll
+D:\Works\GunlukUygulaması\obj\Debug\net8.0\GunlukUygulaması.pdb
+D:\Works\GunlukUygulaması\obj\Debug\net8.0\GunlukUygulaması.genruntimeconfig.cache
+D:\Works\GunlukUygulaması\obj\Debug\net8.0\ref\GunlukUygulaması.dll
